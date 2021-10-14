@@ -1,0 +1,6 @@
+C:\Users\Lenovo\RiderProjects\Sem 3 T2009M\Sem 3 T2009M\bin\Debug\Sem_3_T2009M.exe
+C:\Users\Lenovo\RiderProjects\Sem 3 T2009M\Sem 3 T2009M\bin\Debug\Sem_3_T2009M.pdb
+C:\Users\Lenovo\RiderProjects\Sem 3 T2009M\Sem 3 T2009M\obj\Debug\Sem 3 T2009M.csprojAssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\Sem 3 T2009M\Sem 3 T2009M\obj\Debug\Sem 3 T2009M.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\Sem 3 T2009M\Sem 3 T2009M\obj\Debug\Sem_3_T2009M.exe
+C:\Users\Lenovo\RiderProjects\Sem 3 T2009M\Sem 3 T2009M\obj\Debug\Sem_3_T2009M.pdb
